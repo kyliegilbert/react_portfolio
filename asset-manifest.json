@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kyliegilbert/my-app/static/css/main.0d79b422.css",
-    "main.js": "/kyliegilbert/my-app/static/js/main.7b925d1c.js",
-    "static/media/Rainbow-cake-1.png": "/kyliegilbert/my-app/static/media/Rainbow-cake-1.9ad44d725934ce43fa70.png",
-    "static/media/kylie.jpg": "/kyliegilbert/my-app/static/media/kylie.bf1df814ef7faf406d1f.jpg",
-    "static/media/Leaf2.jpg": "/kyliegilbert/my-app/static/media/Leaf2.e179df24ba43d2ad6be7.jpg",
-    "static/media/blog.jpeg": "/kyliegilbert/my-app/static/media/blog.ac1c5ad7a7a4d4345f29.jpeg",
-    "static/media/Beach2.PNG": "/kyliegilbert/my-app/static/media/Beach2.0d1ab2afba004c209307.PNG",
-    "static/media/background.jpeg": "/kyliegilbert/my-app/static/media/background.f0aa54566a58c6f65880.jpeg",
-    "static/media/ecommerce-pic.jpeg": "/kyliegilbert/my-app/static/media/ecommerce-pic.488f46fc161ef1d07b43.jpeg",
-    "index.html": "/kyliegilbert/my-app/index.html",
-    "main.0d79b422.css.map": "/kyliegilbert/my-app/static/css/main.0d79b422.css.map",
-    "main.7b925d1c.js.map": "/kyliegilbert/my-app/static/js/main.7b925d1c.js.map"
+    "main.css": "/kyliegilbert/react_portfolio/static/css/main.f193032d.css",
+    "main.js": "/kyliegilbert/react_portfolio/static/js/main.7b925d1c.js",
+    "static/media/Rainbow-cake-1.png": "/kyliegilbert/react_portfolio/static/media/Rainbow-cake-1.9ad44d725934ce43fa70.png",
+    "static/media/kylie.jpg": "/kyliegilbert/react_portfolio/static/media/kylie.bf1df814ef7faf406d1f.jpg",
+    "static/media/Leaf2.jpg": "/kyliegilbert/react_portfolio/static/media/Leaf2.e179df24ba43d2ad6be7.jpg",
+    "static/media/blog.jpeg": "/kyliegilbert/react_portfolio/static/media/blog.ac1c5ad7a7a4d4345f29.jpeg",
+    "static/media/Beach2.PNG": "/kyliegilbert/react_portfolio/static/media/Beach2.0d1ab2afba004c209307.PNG",
+    "static/media/background.jpeg": "/kyliegilbert/react_portfolio/static/media/background.f0aa54566a58c6f65880.jpeg",
+    "static/media/ecommerce-pic.jpeg": "/kyliegilbert/react_portfolio/static/media/ecommerce-pic.488f46fc161ef1d07b43.jpeg",
+    "index.html": "/kyliegilbert/react_portfolio/index.html",
+    "main.f193032d.css.map": "/kyliegilbert/react_portfolio/static/css/main.f193032d.css.map",
+    "main.7b925d1c.js.map": "/kyliegilbert/react_portfolio/static/js/main.7b925d1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d79b422.css",
+    "static/css/main.f193032d.css",
     "static/js/main.7b925d1c.js"
   ]
 }
