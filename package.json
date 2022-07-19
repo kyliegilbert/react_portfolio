@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "react_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kyliegilbert/my-app",
+  "homepage": "https://github.com/kyliegilbert/react_portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
